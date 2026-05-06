@@ -1,0 +1,4 @@
+template-file-path: ./template.yaml
+parameters:
+  VpcId: ""
+tags: {}
