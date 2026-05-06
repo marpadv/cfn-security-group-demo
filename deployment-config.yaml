@@ -1,4 +1,5 @@
 template-file-path: template.yaml
 parameters:
     VpcId: vpc-0f60eb72
-tags: {}
+tags:
+    Environment: dev
